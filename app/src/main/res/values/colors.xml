@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5E7DEF</color>
+    <color name="colorPrimaryDark">#5E7DEF</color>
+    <color name="colorAccent">#5E7DEF</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorPrimaryAccent">#4778ed</color>
+    <color name="colorPrimaryTransparent">#B35E7DEF</color>
+
+    <color name="colorRed">#E05555</color>
+
+    <color name="colorGrey">#A8A8A8</color>
+    <color name="colorGreyDark">#898989</color>
+    <color name="colorGreyUrl">#727272</color>
+    <color name="colorGreyTransparent">#B3898989</color>
+
+    <color name="colorGreyGuide">#424242</color>
+    <color name="colorGreyGuideTransparent">#CC424242</color>
+
+    <color name="colorGoogle">#3D77EA</color>
+    <color name="colorYahoo">#720e9e</color>
+    <color name="colorMsn">#A8A8A8</color>
+    <color name="colorBing">#F4DB73</color>
+    <color name="colorBaidu">#1630EF</color>
+    <color name="colorNaver">#3EAF0E</color>
+    <color name="colorSapo">#389129</color>
+    <color name="colorYandex">#E52929</color>
+
+</resources>

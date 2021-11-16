@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">Secury</string>
+
+    <!--Splash-ENG-->
+    <string name="splashText1">Activate Secury Encrypt..</string>
+
+    <!--Helvetica Not Supported Kor-->
+    <!--Settings-KOR
+    <string name="splashText1">Secury 암호화를 활성화합니다..</string>
+    -->
+
+    <!--Web-ENG-->
+    <string name="webToast1">Wait, Now Loading..</string>
+    <string name="webToast2">Not Using WIFI</string>
+    <string name="webToast3">Reload When WIFI Is Connected</string>
+    <string name="webGuide">Long Click To Access Secury Box</string>
+
+    <!--Helvetica Not Supported Kor-->
+    <!--Web-KOR
+    <string name="webToast1">웹페이지를 로딩 중입니다..</string>
+    <string name="webToast2">와이파이 상태가 아닙니다</string>
+    <string name="webToast3">버튼을 길게 누르면 세큐리 박스에 진입합니다</string>
+    -->
+
+    <!--SBox-ENG-->
+    <string name="sboxToast1">Secury Security System</string>
+    <string name="sboxToast2">All data is protected with AES256 encryption</string>
+    <string name="sboxToast3">Want to delete this URL?</string>
+    <string name="sboxToast4">This action is irreversible</string>
+
+    <!--Helvetica Not Supported Kor-->
+    <!--SBox-KOR
+    <string name="sboxToast1">Secury Security System</string>
+    <string name="sboxToast2">모든 데이터가 AES256 암호화로 보호 중입니다</string>
+    <string name="sboxToast3">정말 이 URL을 삭제할까요?</string>
+    <string name="sboxToast4">이것은 복구할 수 없습니다</string>
+    -->
+
+    <!--Settings-ENG-->
+    <string name="settingText1">Start Website</string>
+    <string name="settingText2">Set the start website</string>
+    <string name="settingText3">Load Back Page</string>
+    <string name="settingText4">Allow load back page</string>
+    <string name="settingText5">Dynamite Tab</string>
+    <string name="settingText6">Set features for escape</string>
+    <string name="settingText7">Access code</string>
+    <string name="settingText8">Activate my private access code</string>
+    <string name="settingText9">Secury Box</string>
+    <string name="settingText10">Save my favorite links in secury Box</string>
+    <string name="settingText11">Secury Atelier</string>
+    <string name="settingText12">Not using the secury atelier</string>
+    <string name="settingText13">Access Advanced Settings</string>
+    <string name="settingToast1">Really deactivate box?</string>
+    <string name="settingToast2">All contents of secury box will deleted</string>
+    <string name="settingToast3">Always Welcome.</string>
+    <string name="settingToast4">If you have any suggestions, please contact us by \n\nsecury.management.team\n@google.com</string>
+
+    <!--Helvetica Not Supported Kor-->
+    <!--Settings-KOR
+    <string name="settingText1">시작페이지</string>
+    <string name="settingText2">시작페이지를 설정합니다</string>
+    <string name="settingText3">이전 페이지 로드</string>
+    <string name="settingText4">이전 페이지 로드를 허용합니다</string>
+    <string name="settingText5">다이나마이트 탭</string>
+    <string name="settingText6">긴급종료를 위한 기능을 설정합니다</string>
+    <string name="settingText7">접근코드</string>
+    <string name="settingText8">나의 개인 접근코드를 활성화합니다</string>
+    <string name="settingText9">Secury Box</string>
+    <string name="settingText10">내가 선호하는 링크를 안전한 박스에 저장합니다</string>
+    <string name="settingText11">세큐리 아틀리에</string>
+    <string name="settingText12">아틀리에가 적용되지 않았습니다</string>
+    <string name="settingText13">고급설정 접근</string>
+    <string name="settingToast1">정말 박스를 비활성화할까요?</string>
+    <string name="settingToast2">세큐리 박스의 모든 컨텐츠가 삭제됩니다</string>
+    <string name="settingToast1">항상 환영합니다</string>
+    <string name="settingToast2">만약 독창적인 의견이나 불편사항이 있으시다면, chyse@icloud.com 으로 연락해주시기 바랍니다.</string>
+    -->
+
+    <!--ASettings-ENG-->
+    <string name="asettingText1">Allow Web Cache</string>
+    <string name="asettingText2">Web cache includes visit history</string>
+    <string name="asettingText3">Allow App Cache</string>
+    <string name="asettingText4">App cache includes unintended history</string>
+    <string name="asettingText5">Allow Cookies</string>
+    <string name="asettingText6">Cookies help quick access</string>
+    <string name="asettingText7">Use Wide Web Mode</string>
+    <string name="asettingText8">Use web with more wide view</string>
+    <string name="asettingText9">Use Safe Browsing</string>
+    <string name="asettingText10">Prevent malicious site</string>
+    <string name="asettingText11">Block Recent Search History</string>
+    <string name="asettingText12">Applies to all sites</string>
+    <string name="asettingText13">Use Secury Only In WIFI</string>
+    <string name="asettingText14">This prevents specifying the IP</string>
+    <string name="asettingToast1">Really Allow Cookies?</string>
+    <string name="asettingToast2">This speeds up the internet, But it has vulnerabilities</string>
+    <string name="asettingToast3">Really turn off this option?</string>
+    <string name="asettingToast4">This option prevents access to malicious sites</string>
+    <string name="asettingToast5">Some Websites May Not Work Properly</string>
+    <string name="asettingToast6">No search history left on any site</string>
+
+    <!--Helvetica Not Supported Kor-->
+    <!--ASettings-KOR
+    <string name="asettingText1">웹캐시 허용</string>
+    <string name="asettingText2">웹캐시는 방문기록을 포함합니다</string>
+    <string name="asettingText3">앱캐시 허용</string>
+    <string name="asettingText4">앱캐시는 의도하지 않은 기록을 포함할 수 있습니다</string>
+    <string name="asettingText5">쿠키 허용</string>
+    <string name="asettingText6">쿠키는 빠른 접근에 도움을 줍니다</string>
+    <string name="asettingText7">와이드웹 모드 사용</string>
+    <string name="asettingText8">웹을 더 넓게 볼 수 있습니다</string>
+    <string name="asettingText9">세이프 브라우징 사용</string>
+    <string name="asettingText10">악성사이트 접속을 예방합니다</string>
+    <string name="asettingText11">최근 검색 기록을 비활성화합니다</string>
+    <string name="asettingText12">모든 사이트에 적용됩니다</string>
+    <string name="asettingText13">세큐리를 와이파이 모드에서만 사용합니다</string>
+    <string name="asettingText14">이 옵션은 IP 특정을 방지할 수 있습니다</string>
+    <string name="asettingToast1">정말 쿠키를 허용할까요?</string>
+    <string name="asettingToast2">이 옵션은 인터넷 속도를 향상시키지만, 취약점을 가지고 있습니다</string>
+    <string name="asettingToast3">정말 이 옵션을 비활성화할까요?</string>
+    <string name="asettingToast4">이 옵션은 의도하지 않은 악성사이트 접속을 예방할 수 있습니다</string>
+    <string name="asettingToast5">특정 웹사이트가 잘 동작하지 않을 수 있습니다</string>
+    <string name="asettingToast6">모든 사이트의 최근 검색어 기록이 사용중지됩니다</string>
+    -->
+
+    <!--SWeb-ENG-->
+    <string name="swebText1">Or custom links</string>
+
+    <!--Helvetica Not Supported Kor-->
+    <!--SWeb-KOR
+    <string name="swebText1">또는 새로운 링크</string>
+    -->
+
+    <!--Dynamite-ENG-->
+    <string name="dynamiteText1">Strength 1</string>
+    <string name="dynamiteText2">Shut down the secury</string>
+    <string name="dynamiteText3">Strength 2</string>
+    <string name="dynamiteText4">Shut down &amp; Delete box</string>
+    <string name="dynamiteText5">Strength 3</string>
+    <string name="dynamiteText6">Deactivate secury permanently</string>
+    <string name="dynamiteText7">Strength 4</string>
+    <string name="dynamiteText8">Only secury atelier</string>
+
+    <!--Helvetica Not Supported Kor-->
+    <!--Dynamite-KOR
+    <string name="dynamiteText1">강도 1</string>
+    <string name="dynamiteText2">앱 강제종료</string>
+    <string name="dynamiteText3">강도 2</string>
+    <string name="dynamiteText4">앱 종료 &amp; 세큐리 박스 소거</string>
+    <string name="dynamiteText5">강도 3</string>
+    <string name="dynamiteText6">세큐리 영구 비활성화</string>
+    <string name="dynamiteText7">강도 4</string>
+    <string name="dynamiteText8">세큐리 아틀리에에서 만나보세요</string>
+    -->
+
+    <!--Swebsite-ENG-->
+    <string name="toast1">Please enter the correct URL</string>
+    <!--Swebsite-KOR-->
+    <!--
+    <String name="toast1">정확한 URL을 입력하세요</String>
+    -->
+
+
+</resources>
